@@ -1,0 +1,19 @@
+body {
+    background-color: #000000;
+    color: #f6f6f6;
+   
+}
+
+h1 strong {
+    color: #22d4fd;
+}
+
+.link-social {
+    background-color: aqua;
+    border-radius: 16px;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    text-decoration: none;
+    color: #000000;
+}
