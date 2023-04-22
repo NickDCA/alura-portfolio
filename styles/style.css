@@ -96,7 +96,7 @@ body{
     align-items: center;
     justify-content: center;
     gap: 16px;
-    width: 50%;
+    width: 75%;
     text-align: center;
     border-radius: 8px;
     border: 2px solid var(--cor-terciaria);
@@ -148,7 +148,11 @@ body{
 
     .apresentacao {
         flex-direction: column-reverse;
+        padding: 5%;
     }
 
+    .apresentacao__conteudo {
+        width: auto;
+    }
     
 }
